@@ -15,6 +15,12 @@ data = """\
 000000000000000000000000000000001000000
 000000000000000000000000000000000000000"""
 
+
+lista = """\
+		AAABBBC 
+		ABBBCCA
+		BBCAAAA"""
+
 from collections import namedtuple
 Point = namedtuple('Point', 'x y')
 
