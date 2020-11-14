@@ -21,3 +21,5 @@ Message_1 = Label(window, text="Ingresa el limite de Basilea").place(x=0, y=10)
 Entrance_1 = Entry(window, textvariable=Basilea_limit).place(x=200, y=10)
 Button_1 = Button(window, text="Aceptar", command=Basilea).place(x=150, y=50)
 window.mainloop()
+
+SQL = "SELECT * FROM Tabla"
