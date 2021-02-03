@@ -1,4 +1,5 @@
 {
-    "python.pythonPath": "/home/pmoracho/Proyectos/code.snippets/python/.venv/bin/python3",
-    "git.ignoreLimitWarning": true
+    "python.pythonPath": ".venv/bin/python",
+    "git.ignoreLimitWarning": true,
+    "cSpell.enabled": false
 }
