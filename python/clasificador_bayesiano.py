@@ -1,7 +1,6 @@
 import csv
 import pprint
 
-adobe_client_secret = "xxxx"
 pp = pprint.PrettyPrinter(width=132, compact=True)
 
 training_data = []
